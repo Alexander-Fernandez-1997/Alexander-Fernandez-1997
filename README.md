@@ -1,4 +1,4 @@
-# Hi there, I'm Alexander 👋 
+![banner](https://github.com/Alexander-Fernandez-1997/Alexander-Fernandez-1997/blob/main/img/banner.png)
 
 
 ## I'm a passionate fullstack developer from Buenos Aires
