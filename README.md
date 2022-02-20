@@ -9,7 +9,7 @@
 
 🥅 2022 Goals: Get my first job
 
-🔭 Check out my portafolio it s slowly growing
+🔭 Check out my portfolio it s slowly growing
 
 
 ### Connect with me:
