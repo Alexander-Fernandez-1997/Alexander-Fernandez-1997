@@ -37,5 +37,3 @@
 [<img align="left" alt="Ruby" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Yarn" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Postgresql" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />]
-
-
