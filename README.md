@@ -7,8 +7,6 @@
 
 👯 I’m looking to collaborate with other programmers
 
-🥅 2022 Goals: Get my first job
-
 🔭 Check out my portfolio it s slowly growing
 
 
