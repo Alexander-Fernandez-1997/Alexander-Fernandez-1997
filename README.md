@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://alexander-fernandez-1997.github.io/01-Portafolio/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://alexander-fernandez-1997.github.io/01-Portafolio/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://alexander-fernandez.netlify.app/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://alexander-fernandez.netlify.app/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/alexander-fern%C3%A1ndez-9455aa174/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alexander-fern%C3%A1ndez-9455aa174/#gh-dark-mode-only)
@@ -37,4 +37,4 @@
 [<img align="left" alt="Postgresql" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" style="padding-right:10px;" />][portafolio]
 
 
-[portafolio]:https://alexander-fernandez-1997.github.io/01-Portafolio/
+[portafolio]:https://alexander-fernandez.netlify.app/
