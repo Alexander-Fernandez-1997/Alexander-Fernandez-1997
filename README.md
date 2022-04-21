@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://alexander-fernandez.netlify.app/#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://alexander-fernandez.netlify.app/#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://www.alexander-fernandez.live/#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.alexander-fernandez.live/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/alexander-fern%C3%A1ndez-9455aa174/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alexander-fern%C3%A1ndez-9455aa174/#gh-dark-mode-only)
@@ -41,4 +41,4 @@
 
 
 
-[portafolio]:https://alexander-fernandez.netlify.app/
+[portafolio]:https://www.alexander-fernandez.live/
