@@ -38,8 +38,8 @@
 [<img align="left" alt="React" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][portafolio]
 [<img align="left" alt="Redux" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" style="padding-right:10px;" />][portafolio]
 [<img align="left" alt="Jest" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="padding-right:10px;" />][portafolio]
-[<img align="left" alt="Typescript" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />][portafolio]
 [<img align="left" alt="NextJs" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" style="padding-right:10px;" />][portafolio]
+[<img align="left" alt="Typescript" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />][portafolio]
 [<img align="left" alt="MongoDB" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />][portafolio]
 [<img align="left" alt="Firebase" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="padding-right:10px;" />][portafolio]
 
