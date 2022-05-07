@@ -41,13 +41,7 @@
 [<img align="left" alt="Jest" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="padding-right:10px;" />][portafolio]
 [<img align="left" alt="Typescript" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />][portafolio]
 [<img align="left" alt="MongoDB" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;" />][portafolio]
-[<img align="left" alt="Firebase" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="padding-right:10px;" />][portafolio]
-
-
-
-### Github Stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=Alexander-Fernandez-1997&theme=dark&show_icons=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alexander-Fernandez-1997&theme=dark) 
+[<img align="left" alt="Firebase" width="26px" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="padding-right:10px;" />][portafolio]                                                                             
 
 
 [portafolio]:https://www.alexander-fernandez.live/
